@@ -71,6 +71,7 @@
 * catling
 * Catmat
 * Catsalotl
+* chanceswife
 * ChatteringTeethDemon
 * chiitriangle
 * Chimata
@@ -307,6 +308,7 @@
 * Simmer
 * Siruku
 * Sleepyghost
+* Sleepysky
 * sleepysky
 * snailClippin
 * sniperbob

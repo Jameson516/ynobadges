@@ -1,96 +1,96 @@
 {
   "ynoproject": {
     "badge_amulet": {
-      "name": "Badge Collector Amulet",
-      "description": "It adapts to match your game theme",
-      "condition": "Collect a total of 100 badges (hidden badges excluded)"
+      "name": "تميمة جامع الشارات",
+      "description": "تتأقلم لتتماشى مع شكل اللعبة",
+      "condition": "احصل على 100 شارة (باستثناء الشارات المخفية)"
     },
     "badge_amulet_2": {
-      "name": "Badge Collector Amulet EX",
-      "description": "It adapts to match your game theme",
-      "condition": "Collect a total of 500 badges (hidden badges excluded)"
+      "name": "تميمة جامع الشارات اكس",
+      "description": "تتأقلم لتتماشى مع شكل اللعبة",
+      "condition": "احصل على 500 شارة (باستثناء الشارات المخفية)"
     },
     "mono": {
-      "name": "Expeditionist",
-      "condition": "Reach Intermediate rank in expeditions"
+      "name": "مستكشف",
+      "condition": "احصل على رتبة المتوسط في البعثات"
     },
     "bronze": {
-      "name": "Bronze Expeditionist",
-      "condition": "Reach Bronze rank in expeditions"
+      "name": "مستكشف برونزي",
+      "condition": "احصل على رتبة البرونز في البعثات"
     },
     "silver": {
-      "name": "Silver Expeditionist",
-      "condition": "Reach Silver rank in expeditions"
+      "name": "مستكشف فضي",
+      "condition": "احصل على رتبة الفض في البعثات"
     },
     "gold": {
-      "name": "Gold Expeditionist",
-      "condition": "Reach Gold rank in expeditions"
+      "name": "مستكشف ذهبي",
+      "condition": "احصل على رتبة الذهب في البعثات"
     },
     "platinum": {
-      "name": "Platinum Expeditionist",
-      "condition": "Reach Platinum rank in expeditions"
+      "name": "مستكشف بلاتيني",
+      "condition": "احصل على رتبة البلاتين في البعثات"
     },
     "diamond": {
-      "name": "Diamond Expeditionist",
-      "condition": "Reach Diamond rank in expeditions"
+      "name": "مستكشف الماسي",
+      "condition": "احصل على رتبة الألماس في البعثات"
     },
     "vm": {
-      "name": "Vending Machine Finder",
-      "condition": "Complete 5 Vending Machine Finder expeditions"
+      "name": "مستكشف آلة البيع",
+      "condition": "اكمل 5 بعثات مستكشف آلة البيع"
     },
     "vm_bronze": {
-      "name": "Bronze Vending Machine Finder",
-      "condition": "Complete 15 Vending Machine Finder expeditions"
+      "name": "مستكشف آلة بيع برونزي",
+      "condition": "اكمل 15 بعثات مستكشف آلة البيع"
     },
     "vm_silver": {
-      "name": "Silver Vending Machine Finder",
-      "condition": "Complete 30 Vending Machine Finder expeditions"
+      "name": "مستكشف آلة بيع فضي",
+      "condition": "اكمل 30 بعثات مستكشف آلة البيع"
     },
     "vm_gold": {
-      "name": "Gold Vending Machine Finder",
-      "condition": "Complete 50 Vending Machine Finder expeditions"
+      "name": "مستكشف آلة بيع ذهبي",
+      "condition": "اكمل 50 بعثات مستكشف آلة البيع"
     },
     "vm_platinum": {
-      "name": "Platinum Vending Machine Finder",
-      "condition": "Complete 75 Vending Machine Finder expeditions"
+      "name": "مستكشف آلة بيع بلاتيني",
+      "condition": "اكمل 75 بعثات مستكشف آلة البيع"
     },
     "vm_diamond": {
-      "name": "Diamond Vending Machine Finder",
-      "condition": "Complete 100 Vending Machine Finder expeditions"
+      "name": "مستكشف آلة بيع الماسي",
+      "condition": "اكمل 100 بعثات مستكشف آلة البيع"
     },
     "exp_amulet": {
-      "name": "Expeditionist Amulet",
-      "description": "It adapts to match your surroundings",
-      "condition": "Complete a total of 250 expeditions"
+      "name": "تميمة المستكشف",
+      "description": "تتأقلم لتناسب محيطك",
+      "condition": "اكمل 250 مهام استكشاف"
     },
     "exp_amulet_2": {
-      "name": "Expeditionist Amulet EX",
-      "description": "It adapts to match your surroundings",
-      "condition": "Complete a total of 1000 expeditions"
+      "name": "تميمة المستكشف اكس",
+      "description": "تتأقلم لتناسب محيطك",
+      "condition": "اكمل 1000 مهام استكشاف"
     },
     "medal_bronze": {
-      "name": "Bronze Medal",
-      "condition": "Achieve 100th place or better on the rankings in any category"
+      "name": "المدالية البرونزية",
+      "condition": "حقق المرتبة ال100 في التصنيفات لأي فئة"
     },
     "medal_silver": {
-      "name": "Silver Medal",
-      "condition": "Achieve 30th place or better on the rankings in any category"
+      "name": "المدالية الفضية",
+      "condition": "حقق المرتبة ال30 في التصنيفات لأي فئة"
     },
     "medal_gold": {
-      "name": "Gold Medal",
-      "condition": "Achieve 10th place or better on the rankings in any category"
+      "name": "المدالية الذهبية",
+      "condition": "حقق المرتبة ال10 في التصنيفات لأي فئة"
     },
     "medal_platinum": {
-      "name": "Platinum Medal",
-      "condition": "Achieve 3rd place or better on the rankings in any category"
+      "name": "المدالية البلاتينية",
+      "condition": "حقق المرتبة الثالثة في التصنيفات لأي فئة"
     },
     "medal_diamond": {
-      "name": "Diamond Medal",
-      "condition": "Achieve 1st place on the rankings in any category"
+      "name": "المدالية الماسية",
+      "condition": "حقق المرتبة الاولى في التصنيفات لأي فئة"
     },
     "translator": {
-      "name": "Translator",
-      "condition": "Be a significant contributor of translations to YNOproject"
+      "name": "مترجم",
+      "condition": "ساهم بشكل كبير في تقديم ترجمات لYNOproject"
     },
     "compuss": {
       "name": "Compuss",
@@ -107,14 +107,14 @@
       "condition": "Be Sam"
     },
     "ynfg_dev": {
-      "name": "Fangame Developer",
-      "description": "Reserved for developers of YNFGs hosted on YNOproject",
-      "condition": "Develop or contribute maps to a YNFG hosted on YNOproject"
+      "name": "مطور Fangame",
+      "description": "محجوزة للمطورين لFangame على YNOproject",
+      "condition": "طور او ساهم بمابات لFangame مستضافة على YNOproject"
     },
     "2kki_dev": {
-      "name": "Yume 2kki Developer",
-      "description": "Reserved for Yume 2kki developers",
-      "condition": "Contribute maps to Yume 2kki"
+      "name": "مطور Yume 2kki",
+      "description": "محجوزة لمطورين Yume 2kki",
+      "condition": "ساهم بمابات لYume 2kki"
     },
     "zolotl": {
       "name": "Navigator Protocol \"Gate K9\"",
@@ -158,7 +158,7 @@
       "condition": "فعل حدث الملك الأحمر"
     },
     "glitch": {
-      "name": "������ �� ��",
+      "name": "            ",
       "description": "R̵̫̣͎͊̉ķ̶͓̺̓̃̚M̷̧̜̮̒̿͂g̴̺̏͘Ŗ̵̝̲͛̉̎̄Ḫ̶̲̣̤̾V̴̢͚͔̘́u̵̳̽͆̑͝Z̷͇̈́̿̇Ẇ̵̬̼͉̪̓͊9̸̧̟̈̔̆ṳ̶̞̑̒",
       "condition": "فعل حدث يدعى \"خلل في زنزانة اف سي\""
     },
@@ -1256,8 +1256,9 @@
       }
     },
     "scared_octopus": {
-      "name": "An Octopus in Distress",
-      "condition": "Using the Fairy effect, scare Tako Otoko in Atlantis"
+      "name": "Don't scare me like that!",
+      "description": "I'm not scared of some fairy... well, maybe a little bit.",
+      "condition": "Use the Fairy effect to scare Tako Otoko in Atlantis"
     },
     "mini_town": {
       "name": "Giant",
@@ -5756,8 +5757,8 @@
       }
     },
     "princess_crescent_tile_world": {
-      "name": "Illuminated Princess",
-      "description": "Keep the lights on, please!",
+      "name": "Moonlit Princess",
+      "description": "Don't you dare touch that light switch.",
       "condition": "See all of the reactions of the Princess in Crescent Tile World"
     },
     "cliff_gsc_mountain_ring": {
@@ -7890,8 +7891,8 @@
       "condition": "Get caught and chewed out by the principal in the School for using the Bike"
     },
     "teru_teru_bozu_effect": {
-      "name": "Weathered Weather Doll",
-      "description": "May the skies be clear.",
+      "name": "Tomorrow, Be Sunny!",
+      "description": "Bye-bye, rain! Hello, sunshine!",
       "condition": "Obtain the Teru Teru Bōzu effect. If you have already unlocked it, return in the main part of Dark Alleys."
     },
     "guts_world_red_sewers": {
@@ -9581,9 +9582,9 @@
       "condition": "Get caught by the sister chasers in Sunlit Winter Woods"
     },
     "tt_waters_edge": {
-      "name": "Gateway Edge",
-      "description": "A penumbral threshold... of darkness.",
-      "condition": "Reach the final room in Water's Edge in {TIME} or less in Time Trial Mode"
+      "name": "Indigo Edge",
+      "description": "A luminous threshold... of light.",
+      "condition": "Reach the final room in Water's Edge in 9 minutes or less"
     },
     "visit_amorphous_maroon_space": {
       "name": "Red and Writhing",
@@ -11078,8 +11079,8 @@
       "condition": "Obtain the Duckling Dress effect. If you have already unlocked it, return where it can be found in Cubic Ruins."
     },
     "outlook_hot_springs": {
-      "name": "Relax Sunset",
-      "description": "What a way to warm up from the cold weather",
+      "name": "Evening Respite",
+      "description": "Tanuki Hot Springs, an excellent place for relaxing!",
       "condition": "Reach the outlook in the Hot Springs of Tanuki Woods"
     },
     "turnip_psychedelic_farm": {
@@ -12314,6 +12315,11 @@
       "name": "Somenikki",
       "description": "Would you like to write down your dreams?",
       "condition": "Buy the save book from the Pastel World shop"
+    },
+    "uv_repose": {
+      "name": "Mancountry",
+      "description": "Feel the breeze, the water, and the grass beneath you.",
+      "condition": "Enter the isolated section of Countryside from Streetlamp World"
     }
   },
   "sheawaits": {
@@ -13490,8 +13496,8 @@
       "condition": "Obtain the Curtain effect. If you have already unlocked it, return where it can be found in Fashion Market."
     },
     "if_ending3": {
-      "name": "Deletion of You",
-      "description": "Goodbye, Izumi.",
+      "name": "Image not found: CharSet/Shimitsuki",
+      "description": "Loading of Map Map0003.lmu failed. Map not readable.",
       "condition": "See Ending #3"
     },
     "effect_primary_colors": {
@@ -13931,8 +13937,8 @@
       "condition": "Obtain the Scene effect. If you already have it, return to where it can be found in the Bioluminescent Ocean."
     },
     "candle_effect": {
-      "name": "Living Candle",
-      "description": "\"It's better to light a candle,\nThan to wander in the dark.\"",
+      "name": "Let there be Light",
+      "description": "Allow me to shine a path for you.",
       "condition": "Obtain the Candle effect. If you already have it, return to where it can be found in the Rosehip Garden."
     },
     "noir_effect": {
@@ -13959,9 +13965,9 @@
       "condition": "See the Tea Party event in Her Decomposing Remains"
     },
     "love_drains": {
-      "name": "H<3artbeats",
-      "description": "To call for hands of above, to lean on.. Wouldn't be good enough for me",
-      "condition": "Unlock the connection to Love Drains from the Nexus"
+      "name": "Drain The Blood From This Abscess",
+      "description": "My love for you has been drained. Along with it came my energy and my brain.",
+      "condition": "Unlock the connection to the Nexus from Love Drains. If you have already unlocked it, return to Love Drains."
     },
     "sunset_railroad": {
       "name": "Sunset Railroad",
@@ -13984,8 +13990,8 @@
       "condition": "Obtain the Goat effect. If you have already unlocked it, return to Black Market."
     },
     "cherry_bar": {
-      "name": "Cherry Vinyl",
-      "description": "Welcome to the music corner!",
+      "name": "Alcoholic Drunkard",
+      "description": "And I'll drink day and night.",
       "condition": "Reach Cherry Bar in Love Drains"
     },
     "neon_bear_rave": {
@@ -14009,8 +14015,8 @@
       "condition": "Find a familiar dog in Sunset Skyscrapers"
     },
     "here_comes_the_bride": {
-      "name": "Death Love",
-      "description": "Even in death, I'm still trying to find my groom.",
+      "name": "Buried Vows",
+      "description": "Our love is six feet under.",
       "condition": "Obtain the Bride Effect. If you have already obtained it, return to the area where you originally found it."
     },
     "loveyou_yearning_visit": {
